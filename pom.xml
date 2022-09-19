@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://172.31.91.183:8081/repository/groovy-scripted-release/</url>
+	      <url>http://172.31.91.183:8081/repository/declarative-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.91.183:8081/repository/groovy-scripted-snapshot/</url>
+	      <url>http://172.31.91.183:8081/repository/declarative-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
